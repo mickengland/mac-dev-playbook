@@ -2,3 +2,5 @@
 - name: geerlingguy.dotfiles
 - name: geerlingguy.homebrew
 - name: geerlingguy.mas
+- name: dosullivan.kops
+- name: telusdigital.kubectl
